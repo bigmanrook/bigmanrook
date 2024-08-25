@@ -1,3 +1,14 @@
+<head>
+</head>
+<body>
+
+<style>
+  img {
+border-radius: 3px;
+    
+  }
+</style>
+  
 <h1>Hi, I'm Jude</h1>
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxGZHoFmHkbOrVLCqjg3wEcJPUKJpsnn_mAg&s"> 
@@ -12,4 +23,4 @@ Check out my youtube channel:
 
 <a href="https://www.youtube.com/channel/UC7k7xcYaL6S5duOBjBN-HPg" target="_blank" rel="noopener noreferrer">Dr Wells</a>
 
-
+</body>
