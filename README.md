@@ -1,17 +1,18 @@
 <head>
+
+  <style>
+  img {
+border-radius: 3px ; 
+  }
+</style>
 </head>
 <body>
 
-<style>
-  img {
-border-radius: 3px;
-    
-  }
-</style>
+
   
 <h1>Hi, I'm Jude</h1>
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxGZHoFmHkbOrVLCqjg3wEcJPUKJpsnn_mAg&s"> 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxGZHoFmHkbOrVLCqjg3wEcJPUKJpsnn_mAg&s" > 
 
 - 👀 I’m interested in Deep learning and Web Development
 - 🌱 I’m currently learning Delphi, python, html, css, js and kivy
