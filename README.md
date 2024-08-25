@@ -1,10 +1,10 @@
 <h1>Hi, I'm Jude</h1>
 
- 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxGZHoFmHkbOrVLCqjg3wEcJPUKJpsnn_mAg&s"> 
 
 - 👀 I’m interested in Deep learning and Web Development
-- 🌱 I’m currently learning Delphi, Python and kivy
-- 💞️ I’m looking to learn as much as I possibly can in app development and databases
+- 🌱 I’m currently learning Delphi, python, html, css, js and kivy
+- 💞️ I’m looking to learn as much as I possibly can in app development and databases 
 - 📫 How to reach me:
 - wells.jude0208@gmail.com
 
