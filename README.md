@@ -1,10 +1,4 @@
 <head>
-
-  <style>
-  img {
-border-radius: 3px ; 
-  }
-</style>
 </head>
 <body>
 
