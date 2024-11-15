@@ -10,7 +10,7 @@
 
 - 👀 I’m interested in Deep learning and Web Development
 - 🌱 I’m currently learning Delphi, python, html, css, js and kivy
-- 💞️ I’m looking to learn as much as I possibly can in app development and databases 
+- 💞️ I’m looking to learn as much as I possibly can in app development and cybersecurity 
 - 📫 How to reach me:
 - wells.jude0208@gmail.com
 
